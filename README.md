@@ -16,7 +16,8 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsasha45op&layout=compact&hide=html" alt="mrsasha45op" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrsasha45op&show_icons=true" alt="mrsasha45op" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrsasha45op&show_icons=true" alt="mrsasha45op" />
+
 
 
 [osu]: https://osu.ppy.sh
