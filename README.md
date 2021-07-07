@@ -1,7 +1,7 @@
-### Hi there! I'm Alexander - aka Mrsasha45op 👋
+## Hi there! I'm Alexander - aka Mrsasha45op 👋
 
-## I'm a JavaScript Developer!
-- 🔭 I’m currently working on a [Sanek Bot][sanek]!
+### I'm a Junior JavaScript Developer
+- 🔭 I’m currently working on the [Sanek Bot][sanek]!
 - 🌱 Also somehow learning and using Golang
 - 👯 I’m looking to collaborate with other developers
 - 🧐 2021 Goals: Investigate into AI and pathfinding
