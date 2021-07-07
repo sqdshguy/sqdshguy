@@ -1,15 +1,15 @@
-### Hi there! I'm Alex - aka Mrsasha45op 👋
+### Hi there! I'm Alexander - aka Mrsasha45op 👋
 
 ## I'm a JavaScript Developer!
 - 🔭 I’m currently working on a [Sanek Bot][sanek]!
-- 🌱 I’m currently learning Golang
+- 🌱 Also somehow learning and using Golang
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play [osu!][osu]
+- 🧐 2021 Goals: Investigate into AI and pathfinding
+- ⚡ I love to play [osu!][osu] & CS:GO
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrsasha45op&show_icons=true&theme=tokyonight" alt="mrsasha45op" />
 
 
-[osu]: https://osu.ppy.sh
+[osu]: https://osu.ppy.sh/users/12289422
 [twitch]: https://twitch.tv/mrsasha45op
-[sanek]: https://sanek.me
+[sanek]: https://sanek.tech
