@@ -1,10 +1,10 @@
 ## Hi there! I'm Alexander - aka Mrsasha45op 👋
 
-- 🔭 I’m currently working on the [Sanek Bot][sanek]!
-- 🌱 Also somehow learning and using Golang
-- 👯 I’m looking to collaborate with other developers
-- 🧐 2021 Goals: Investigate into AI and pathfinding
-- ⚡ I love to play [osu!][osu] & CS:GO
+- 👨🏼‍💻 I'm currently investigating into Competitive Programming
+- 🔢 Also improving my knowledge in C++ and Number Theory
+- 🤙 I’m looking to learn together with other programmers
+- 🥇 2022 Goals: Get better results in Competitive Programming
+- 🎧 I love to play [osu!][osu] & CS:GO
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrsasha45op&show_icons=true&theme=tokyonight" alt="mrsasha45op" />
 
