@@ -6,6 +6,6 @@
 - 🥇 2022 Goals: Get better results in Competitive Programming
 - 🎧 I love to play [osu!][osu]
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrsasha45op&show_icons=true&theme=tokyonight" alt="mrsasha45op" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sqdshguy&show_icons=true&theme=tokyonight" alt="sqdshguy" />
 
 [osu]: https://osu.ppy.sh/users/12289422
