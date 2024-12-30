@@ -1,6 +1,10 @@
-## Hi there! I'm Oleksandr - aka sqdshguy 👋
+Hi there! I'm Oleksandr - aka sqdshguy 👋
 
-- 👨🏼‍💻 Currently investigating into Competitive Programming and Machine Learning
-- 🔢 Also improving my knowledge in C++ and Algorithms
-- 🤙 Looking for collaboration
-- 🥇 2024 Goals: Continue supporting multiple projects and creating new ones
+- 👨🏼‍💻 Currently diving into Competitive Programming competitions to sharpen my software engineering skills and for the sheer fun of it
+- 🔢 Enhancing my expertise in C++, Algorithms, and scalable software solutions
+- 💡 Focused on creating profitable solutions for existing projects as well as developing innovative ones of my own
+- 🔗 Extensive experience in blockchain and crypto technologies, specializing in EVM-based chains, TON, and Solana
+- 🤙 Open to collaborations and exciting challenges
+- 🚀 Always eager to learn, grow, and make an impact
+
+Feel free to connect with me, and let’s build something great together!
