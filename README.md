@@ -1,4 +1,4 @@
-Hi there! I'm Oleksandr - aka sqdshguy 👋
+## Hi there! I'm Oleksandr - aka sqdshguy 👋
 
 - 👨🏼‍💻 Currently diving into Competitive Programming competitions to sharpen my software engineering skills and for the sheer fun of it
 - 🔢 Enhancing my expertise in C++, Algorithms, and scalable software solutions
