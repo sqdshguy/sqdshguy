@@ -1,10 +1,12 @@
-## Hi there! I'm Oleksandr - aka sqdshguy 👋
+## Hi there! I'm Oleksandr — aka sqdshguy 👋
 
-- 👨🏼‍💻 Currently diving into Competitive Programming to sharpen my software engineering skills and for the sheer fun of it
-- 🔢 Enhancing my expertise in Data Structures and Algorithms
-- 💡 Focused on creating profitable solutions for existing projects as well as developing innovative ones of my own
-- 🔗 Extensive experience in blockchain and crypto technologies, specializing in EVM-based chains, TON, and Solana
-- 🤙 Open to collaborations and exciting challenges
-- 🚀 Always eager to learn, grow and make an impact
+I am a software engineer who is excited about creating projects that address real-world problems and add value, whether they are little utilities or large-scale systems. My focus is always on creating ideas that are both impactful and profitable.
 
-Feel free to connect with me, and let’s build something great together!
+What I'm currently working on:
+
+* Using Rust to improve application performance and reliability
+* Integrating AI technologies for increased productivity, faster learning, and better solutions.
+* Creating innovative projects with tangible business value 
+* Bringing extensive blockchain and cryptocurrency experience to EVM chains, TON, and Solana
+
+I enjoy working at the meeting point of technology and problem-solving, and I'm constantly searching for opportunities to develop things that have an impact. I'd love to connect with you if you're working on something ambitious and significant.
