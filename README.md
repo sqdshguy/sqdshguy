@@ -2,7 +2,7 @@
 
 I am **Oleksandr Herasymov**, also known as **sqdshguy** (pronounced *S-Q-dash-guy*).
 
-**Fullstack JavaScript / TypeScript Developer • Go & Python Enthusiast • TensorFlow Certified**
+**Fullstack JavaScript / TypeScript Developer • Python & Go Enthusiast • TensorFlow Certified**
 
 ## 🔧 Tech stack
 
