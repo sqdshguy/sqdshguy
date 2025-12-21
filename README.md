@@ -2,7 +2,7 @@
 
 I am **Oleksandr Herasymov**, also known as **sqdshguy** (pronounced *S-Q-dash-guy*).
 
-**Fullstack JavaScript / TypeScript Developer • Python & Go Enthusiast • TensorFlow Certified**
+**Fullstack JavaScript / TypeScript Developer • Python & Rust Enthusiast • TensorFlow Certified • Automation Engineer (LLM-enabled)**
 
 ## 🔧 Tech stack
 
@@ -10,7 +10,7 @@ I am **Oleksandr Herasymov**, also known as **sqdshguy** (pronounced *S-Q-dash-g
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff)](#)
 
 **JS** - 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
@@ -26,12 +26,12 @@ I am **Oleksandr Herasymov**, also known as **sqdshguy** (pronounced *S-Q-dash-g
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)](#)
 
-**Go** - 
-[![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=fff)](#)
-[![Fiber](https://img.shields.io/badge/Fiber-2C3E50?logo=go&logoColor=fff)](#)
-[![Echo](https://img.shields.io/badge/Echo-353535?logo=go&logoColor=fff)](#)
-[![gRPC](https://img.shields.io/badge/gRPC-5C2D91?logo=grpc&logoColor=fff)](#)
-[![Cobra](https://img.shields.io/badge/Cobra-000?logo=go&logoColor=fff)](#)
+**Rust** - 
+[![Tokio](https://img.shields.io/badge/Tokio-000000?logo=tokio&logoColor=fff)](#)
+[![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=fff)](#)
+[![Actix%20Web](https://img.shields.io/badge/Actix%20Web-000000?logo=actix&logoColor=fff)](#)
+[![Warp](https://img.shields.io/badge/Warp-000000?logo=rust&logoColor=fff)](#)
+[![Clap](https://img.shields.io/badge/Clap-000000?logo=rust&logoColor=fff)](#)
 
 This is just a small subset of what I worked with. The tools outlined here are mostly production-ready and widely adopted ones, but I also love experimental stuff that aims to improve performance of high-level languages.
 
