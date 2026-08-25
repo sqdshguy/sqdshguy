@@ -1,6 +1,7 @@
 ## Hi 👋!
 
 I am **Oleksandr Herasymov**, also known as **sqdshguy** (pronounced *S-Q-dash-guy*).
+Ukrainian, based in Turin, Italy.
 
 Fullstack engineer. I build web and mobile apps end to end, along with the services,
 tooling and infrastructure behind them, and I write networking and systems software when
